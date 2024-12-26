@@ -1,3 +1,3 @@
 # testrepos1
-#Adding some text to the file
-Its the markdown file in the repository.
+
+This is just a basic test repository where I randomly created some rough and vague ideas without much development
